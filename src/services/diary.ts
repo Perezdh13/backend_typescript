@@ -1,4 +1,4 @@
-import { DiaryEntry, NonSensitiveInfoDiaryEntry } from "../routes/types"
+import { DiaryEntry, NonSensitiveInfoDiaryEntry } from "../types"
 import diaryData from "./diary.json"
 
 const diaries : Array<DiaryEntry> = diaryData as Array<DiaryEntry>
