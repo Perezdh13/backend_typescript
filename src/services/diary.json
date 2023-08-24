@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "date": "2017-03-26",
+        "weather":"rain",
+        "visibility": "poor",
+        "comment": "Pretty scary flight, I´m glad I´m alive"
+    },
+    {
+        "id":2,
+        "date": "1991-03-26",
+        "weather":"rain",
+        "visibility": "ok",
+        "comment": "i´m happy"
+    }
+]
